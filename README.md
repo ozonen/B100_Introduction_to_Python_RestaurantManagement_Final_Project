@@ -1,7 +1,6 @@
 # Ramen Shop Management System
 
-B100 Introduction to Computer Programming with Python  
-Gisma University of Applied Sciences 
+## B100 Introduction to Computer Programming with Python - Gisma University of Applied Sciences 
 
 - **Student:** Ozgur Onen
 - **Student ID:** GH1044899
