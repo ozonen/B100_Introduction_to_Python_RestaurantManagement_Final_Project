@@ -14,13 +14,11 @@ A Python-based management system for a ramen restaurant. This project handles me
 
 ## Project Structure
 
-```
-restaurant_management/
-├── menu_item.py       # MenuItem class (4 methods)
-├── table.py           # Table class (5 methods)
-├── order.py           # Order class (6 methods)
-├── restaurant.py      # Restaurant class (9 methods)
-├── main.py            # Main program interface
-└── data/
-    └── menu.csv       # Menu data file
-```
+| File | Description |
+|------|-------------|
+| `menu_item.py` | MenuItem class - manages individual menu items |
+| `table.py` | Table class - handles table status and reservations |
+| `order.py` | Order class - processes customer orders |
+| `restaurant.py` | Restaurant class - main system controller |
+| `main.py` | Main program - user interface and menu system |
+| `data/menu.csv` | Menu data storage file |
