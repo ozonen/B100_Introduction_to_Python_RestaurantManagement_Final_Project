@@ -3,7 +3,8 @@
 B100 Introduction to Computer Programming with Python  
 Gisma University of Applied Sciences 
 
-**Student:** Ozgur Onen 
+**Student:** Ozgur Onen
+
 **Student ID:** GH1044899
 
 ---
