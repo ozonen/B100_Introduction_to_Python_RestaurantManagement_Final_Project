@@ -3,7 +3,8 @@
 B100 Introduction to Computer Programming with Python  
 Gisma University of Applied Sciences 
 
-**Student:** Ozgur Onen - **Student ID:** GH1044899
+1. **Student:** Ozgur Onen
+2. **Student ID:** GH1044899
 
 ---
 
@@ -98,5 +99,5 @@ TOTAL: €32.13
 ---
 ## Tools Used
 
--PyCharm
--Github
+1. PyCharm
+2. Github
