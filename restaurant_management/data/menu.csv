@@ -1,0 +1,21 @@
+id,name,category,price,available
+1,Shoyu Ramen,Ramen,12.00,True
+2,Miso Ramen,Ramen,12.50,True
+3,Tonkotsu Ramen,Ramen,13.50,True
+4,Spicy Tan Tan Ramen,Ramen,13.00,True
+5,Vegetable Ramen,Ramen,11.00,True
+6,Extra Chashu Pork,Topping,3.50,True
+7,Soft Boiled Egg,Topping,2.00,True
+8,Extra Noodles,Topping,2.50,True
+9,Corn,Topping,1.50,True
+10,Seaweed,Topping,1.00,True
+11,Green Onion,Topping,1.00,True
+12,Bamboo Shoots,Topping,2.00,True
+13,Extra Rich Broth,Soup,2.00,True
+14,Spicy Broth,Soup,1.50,True
+15,Garlic Oil,Soup,1.00,True
+16,Green Tea,Beverage,2.50,True
+17,Iced Tea,Beverage,3.00,True
+18,Ramune Soda,Beverage,3.50,True
+19,Asahi Beer,Beverage,5.00,True
+20,Sake,Beverage,6.00,True
