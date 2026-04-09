@@ -13,6 +13,8 @@ Gisma University of Applied Sciences
 A Python-based management system for a ramen restaurant. This project handles menu management, table reservations, order processing, and billing with CSV data storage.
 
 ## Project Structure
+
+```
 restaurant_management/
 ├── menu_item.py       # MenuItem class (4 methods)
 ├── table.py           # Table class (5 methods)
@@ -20,4 +22,5 @@ restaurant_management/
 ├── restaurant.py      # Restaurant class (9 methods)
 ├── main.py            # Main program interface
 └── data/
-└── menu.csv       # Menu data file
+    └── menu.csv       # Menu data file
+```
