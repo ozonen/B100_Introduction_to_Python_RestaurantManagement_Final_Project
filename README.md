@@ -1,31 +1,23 @@
 # Ramen Shop Management System
 
-A Python-based management system for a ramen restaurant. This project was created for the B100 Introduction to Computer Programming course at Gisma University.
+B100 Introduction to Computer Programming with Python  
+Gisma University of Applied Sciences 
 
-## About This Project
+**Student:** Ozgur Onen 
+**Student ID:** GH1044899
 
-This system helps manage a ramen shop's daily operations including:
-- Menu management (ramen bowls, toppings, soups, beverages)
-- Table management (tracking availability and reservations)
-- Order processing (creating orders, adding items, calculating bills)
-- Data storage (saving and loading menu from CSV files)
+---
 
-## Features
+## About
 
-- **Menu Management**: Add, view, and update ramen dishes, toppings, and drinks
-- **Table Tracking**: Monitor table status (free, busy, reserved)
-- **Order System**: Create orders, add multiple items, calculate totals with tax
-- **File Storage**: Save and load menu data using CSV files
-- **Interactive Interface**: Easy-to-use menu-driven system
+A Python-based management system for a ramen restaurant. This project handles menu management, table reservations, order processing, and billing with CSV data storage.
 
 ## Project Structure
 restaurant_management/
-│
-├── menu_item.py       # MenuItem class - represents menu items
-├── table.py           # Table class - manages restaurant tables
-├── order.py           # Order class - handles customer orders
-├── restaurant.py      # Restaurant class - main controller
-├── main.py            # Main program with user interface
-│
+├── menu_item.py       # MenuItem class (4 methods)
+├── table.py           # Table class (5 methods)
+├── order.py           # Order class (6 methods)
+├── restaurant.py      # Restaurant class (9 methods)
+├── main.py            # Main program interface
 └── data/
 └── menu.csv       # Menu data file
